@@ -1,5 +1,5 @@
 ### FreJun-assignment
-To run the code : 
+To Run the code : 
 ```
 flask run
 ```
